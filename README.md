@@ -18,7 +18,7 @@ In the above command, both the state and town can be omitted in which case the b
 Melbourne, VIC
 12.1 C (Melbourne (Olympic Park))
 Min: 8.2 C   Max: 12.5 C   Rain: Mostly cloudy.
-Wind: 7km/h   Humidity: 80%\
+Wind: 7km/h   Humidity: 80%
 
 Forecast
 Thu 4 Jul      6 C - 15 C
